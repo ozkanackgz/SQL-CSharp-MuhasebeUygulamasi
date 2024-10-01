@@ -1,0 +1,8 @@
+BEGIN TRANSACTION -- baþladý
+
+SELECT * FROM CARI_HESAPLAR
+UPDATE CARI_HESAPLAR SET EH_TEDARIKCI = 0 WHERE CARIKOD = 107
+SELECT * FROM CARI_HESAPLAR WHERE CARIKOD = 107
+--COMMIT -- sonlandýrýyor, veri tabanýna yansýtýyor
+ROLLBACK -- sonlandýrýyor, veri tabanýna yansýtmýyor, iptal ediyor
+SELECT * FROM CARI_HESAPLAR WHERE CARIKOD = 107 

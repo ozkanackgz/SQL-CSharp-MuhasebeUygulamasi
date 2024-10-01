@@ -1,0 +1,14 @@
+C:\Users\ozkan\source\repos\vtys1\vtys1\bin\Release\vtys1.exe.config
+C:\Users\ozkan\source\repos\vtys1\vtys1\bin\Release\vtys1.exe
+C:\Users\ozkan\source\repos\vtys1\vtys1\bin\Release\vtys1.pdb
+C:\Users\ozkan\source\repos\vtys1\vtys1\obj\Release\vtys1.csproj.AssemblyReference.cache
+C:\Users\ozkan\source\repos\vtys1\vtys1\obj\Release\vtys1.formAna.resources
+C:\Users\ozkan\source\repos\vtys1\vtys1\obj\Release\vtys1.formLogin.resources
+C:\Users\ozkan\source\repos\vtys1\vtys1\obj\Release\vtys1.formStokListesi.resources
+C:\Users\ozkan\source\repos\vtys1\vtys1\obj\Release\vtys1.formStokTanim.resources
+C:\Users\ozkan\source\repos\vtys1\vtys1\obj\Release\vtys1.Properties.Resources.resources
+C:\Users\ozkan\source\repos\vtys1\vtys1\obj\Release\vtys1.csproj.GenerateResource.cache
+C:\Users\ozkan\source\repos\vtys1\vtys1\obj\Release\vtys1.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\source\repos\vtys1\vtys1\obj\Release\vtys1.exe
+C:\Users\ozkan\source\repos\vtys1\vtys1\obj\Release\vtys1.pdb
+C:\Users\ozkan\source\repos\vtys1\vtys1\obj\Release\vtys1.formKullaniciiListesi.resources

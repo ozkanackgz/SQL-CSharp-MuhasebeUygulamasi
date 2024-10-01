@@ -1,0 +1,4 @@
+
+SELECT * FROM CARI_HESAPLAR
+
+INSERT INTO CARI_HESAPLAR VALUES('100','Müþteri-1','4621000000','musteri1@gmail.com','1','abc')
